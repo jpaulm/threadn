@@ -1,0 +1,4 @@
+'c:\Business\UseMod~1\recent~1.htm' -> OPT Lire(THFILERD) OUT -> 
+IN Select(SELURLS) OUT -> 
+IN Ecrire(THFILEWT),
+'c:\Business\UseMod~1\modchgs.htm' -> OPT Ecrire;

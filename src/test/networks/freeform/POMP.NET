@@ -1,0 +1,5 @@
+'c:\threadn\pompiers.fil' -> OPT Lire(THFILERD) OUT -> 
+IN Select(SELPOMP) OUT -> 
+IN Ecrire(THFILEWT),
+'100000  ' -> SAL Select,
+'c:\threadn\riches.fil' -> OPT Ecrire;

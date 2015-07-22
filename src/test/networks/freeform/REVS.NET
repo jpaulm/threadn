@@ -1,0 +1,15 @@
+generator(THGENIPS)   OUT->
+IN Enclose_in_brackets(THENCBRK)  OUT ->
+IN Reverse_within_brackets(THREVERS)  OUT ->
+IN Remove_brackets(THREMBRK)  OUT ->
+IN  viewer(L1),
+'H' -> OPT viewer,
+'20' -> OPT generator,
+'Newtest...' -> PREFIX generator;
+
+L1:
+OPT => OPT viewer,
+ IN => IN viewer (THVIEW)  OUT => OUT;
+
+
+
