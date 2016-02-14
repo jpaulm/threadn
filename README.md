@@ -14,7 +14,7 @@ This FBP implementation uses `longjmp` and `setjmp`, and creates new stacks "by 
 
 If anyone is interested in the `fibers` version, I could put it up on GitHub as well.
 
-As far as I know, only CppFBP of the three implementations mentioned can support multiple cores.  However, https://msdn.microsoft.com/en-us/library/windows/desktop/ms681917%28v=vs.85%29.aspx seems to suggest that processes and/or threads can take advantage of multiple cores - curious if this is true...?
+As far as I know, only CppFBP of the three implementations mentioned can support multiple cores.  
 
 `dfs` services vs. `thz` services
 ----
