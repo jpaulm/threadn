@@ -1,4 +1,4 @@
-# threadn
+threadn
 ===
 
 ### C-based FBP implementation using longjmp and setjmp
