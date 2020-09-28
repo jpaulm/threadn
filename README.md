@@ -1,6 +1,7 @@
 # threadn
-C-based FBP implementation using longjmp and setjmp
 ===
+
+### C-based FBP implementation using longjmp and setjmp
 
 This is a *green* thread FBP implementation - for a true multithreaded implementation, see https://github.com/jpaulm/cppfbp , which uses Boost (http://www.boost.org/ ).  
 
